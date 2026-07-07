@@ -1,0 +1,6 @@
+{
+  "name": "SweetStock Pro",
+  "description": "Complete Business Management Solution for Sweet Shops",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
